@@ -1,0 +1,89 @@
+.navbar{
+    background-color: white;
+}
+
+.carousel{
+	padding-top: 100px;
+	height: 680px;
+}
+
+#fttr{
+	background-color: whitesmoke;
+}
+
+#fl{
+	padding-top: 50px;
+}
+
+#fc{
+	border-top: 1px solid lightgray;
+	background-color: whitesmoke;
+}
+
+#dd{
+	background-color: whitesmoke;
+	padding: 40px;
+}
+
+.btn{
+	background-color: teal;
+	border-color: teal;
+}
+
+.btn:hover{
+	background-color: white;
+	color:#004d40 ;
+	transition-duration: 0.5s;
+}
+
+.card-group{
+	background-color: whitesmoke;
+	padding: 20px;
+}
+
+#lc{
+	margin-bottom: 20px;
+	margin: 20px;
+	border: 1px solid lightgray;
+}
+
+#kidsg,#shirtsg,#trousersg{
+	padding-top: 100px;
+	background-color: whitesmoke;
+	
+}
+
+#ks,#shirtss,#ts{
+	background-color: whitesmoke;
+	padding-top: 20px;
+}
+
+.card-body{
+	background-color: whitesmoke;
+}
+
+.row{
+	padding: 10px;
+}
+
+#btt{
+	position: fixed;
+	right: 20px;
+	bottom: 30px;	
+}
+
+#aulogo{
+	height: 500px;
+	padding: 150px;
+}
+
+#auhead{
+	position: relative;
+	padding:-100px;
+}
+
+#au{
+	background-color: whitesmoke;
+	justify-content: center;
+	
+}
